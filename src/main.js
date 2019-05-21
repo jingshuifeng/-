@@ -1,5 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
+import sjld from './index'
+Vue.use(sjld);
 
 Vue.config.productionTip = false
 
